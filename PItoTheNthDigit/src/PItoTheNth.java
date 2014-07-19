@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Project for Java Mastery. Completed 7/15/14 by Elizabeth Mort
+//Project for Java Mastery. Completed 7/15/14 by EM
 
 public class PItoTheNth {
 

@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-//Project for Java Mastery completed 7/19/14 by Elizabeth Mort
-
+//Project for Java Mastery completed 7/19/14 by EM
 public class ReverseString {
 
 	public static void main(String[] args) {

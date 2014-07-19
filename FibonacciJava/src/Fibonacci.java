@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Projects for Java mastery completed 7/16/14 by Elizabeth Mort
+//Projects for Java mastery completed 7/16/14 by EM
 
 //Fibonacci Sequence to the Nth number, number provided by user
 
