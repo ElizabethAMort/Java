@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Calculator project. Initial project completed 7/21/14.
+
 public class CalculatorApp {
 
 	public static void main(String[] args) {
