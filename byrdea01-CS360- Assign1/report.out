@@ -1,0 +1,8 @@
+Id     Sex  Tot            HDL          LDL           TRI            RAT
+----------------------------------------------------------------------------------------
+1001A   m   180 (DSRBL)    60 ( HIGH)    96 (  OPT)   120 (DSRBL)    3.0 (  DEC)
+1002A   f   250 ( HIGH)    20 (  LOW)   168 ( HIGH)   310 ( HIGH)   12.5 (  INC)
+1003A   m    99 (DSRBL)    70 ( HIGH)    17 (  OPT)    60 (DSRBL)    1.4 (  DEC)
+1004B   m   200 (BHIGH)    40 (  AVG)   140 (BHIGH)   100 (DSRBL)    5.0 (  INC)
+1005B   f   240 ( HIGH)    50 (  AVG)   174 ( HIGH)    80 (DSRBL)    4.8 (  AVG)
+1006B   f   180 (DSRBL)    60 ( HIGH)    96 (  OPT)   120 (DSRBL)    3.0 (  DEC)
